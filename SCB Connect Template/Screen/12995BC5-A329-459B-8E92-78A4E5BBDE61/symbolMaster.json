@@ -9,7 +9,7 @@
     "red": 0.9664912840136054
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1655,
+  "changeIdentifier": 1668,
   "do_objectID": "12995BC5-A329-459B-8E92-78A4E5BBDE61",
   "exportOptions": {
     "_class": "exportOptions",
@@ -60,28 +60,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "EE90F936-9332-41CA-9516-B9CE52501EF5"
-    },
-    {
-      "class": "group",
-      "id": "7DF720B8-B5CA-46CC-9A30-1E0A3C220473"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5230EF00-9FC6-44F3-B2BE-6CE78A96DA48"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F2905F5C-FF75-4FF2-93BB-4AA113434FE0"
-    },
-    {
-      "class": "group",
-      "id": "BB87D23D-DC79-4B8B-977B-95CD9C9C0C8B"
-    },
-    {
-      "class": "group",
-      "id": "32DC0BE3-3234-4922-A0E9-FC232253D6A8"
+      "class": "symbolInstance",
+      "id": "96EBB7FE-B488-45EB-80A9-0A0B32946E3E"
     },
     {
       "class": "group",

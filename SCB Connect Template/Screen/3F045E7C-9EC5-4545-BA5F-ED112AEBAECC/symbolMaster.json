@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 918,
+  "changeIdentifier": 935,
   "do_objectID": "3F045E7C-9EC5-4545-BA5F-ED112AEBAECC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,28 +51,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "42299821-D1CB-46BB-AFD0-903AA55F56DA"
-    },
-    {
-      "class": "group",
-      "id": "3A3DFAE2-6358-40FB-AF10-7295085C8F98"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "41FFF8E5-2FDC-4C82-825F-76E469DCA2CD"
-    },
-    {
       "class": "group",
       "id": "9E4E624B-E39E-496F-8914-0721953C9CD3"
-    },
-    {
-      "class": "group",
-      "id": "69816AB5-0C16-4F27-BF9A-4D6AA17DBBAE"
-    },
-    {
-      "class": "group",
-      "id": "F97DAE65-2B20-4EAF-A9BD-3DD2644E2498"
     }
   ],
   "name": "Screen / Register / GreetingRich",

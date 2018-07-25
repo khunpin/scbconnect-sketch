@@ -9,7 +9,7 @@
     "red": 0.9664912840136054
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1882,
+  "changeIdentifier": 1939,
   "do_objectID": "FADAB7DC-6CCE-42B5-A44B-F13318978340",
   "exportOptions": {
     "_class": "exportOptions",
@@ -40,7 +40,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,31 +57,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "5A65D252-07AA-48C6-BD8E-5E0C893B9A46"
-    },
-    {
-      "class": "group",
-      "id": "5A20B021-71B1-4F62-82B1-5272F7B03F3E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "31CD0CC2-0019-4A08-B9CA-8332C25A0A3B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "72989D5F-559D-4913-92CA-28F7D5AB6075"
-    },
-    {
-      "class": "group",
-      "id": "306AA3DB-8334-487B-90BA-E978E328C43B"
-    },
-    {
-      "class": "group",
-      "id": "C4080CB0-B9EB-4CE3-A939-D77527B73AA2"
+      "class": "symbolInstance",
+      "id": "FB56C379-FE59-4A53-A0BD-12D74FA4DFC0"
     },
     {
       "class": "group",

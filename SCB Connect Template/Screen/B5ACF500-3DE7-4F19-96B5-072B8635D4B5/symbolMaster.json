@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5123,
+  "changeIdentifier": 5132,
   "do_objectID": "B5ACF500-3DE7-4F19-96B5-072B8635D4B5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,36 +51,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "CC71D517-1E94-429C-A1EE-E0A7A8D6C74F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "03B56511-DEB8-4967-B391-A9F55F9BEEB1"
-    },
-    {
-      "class": "group",
-      "id": "414D82B8-6023-496B-A330-2DADEEC4D4C3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A46D7F42-19E4-40D7-8787-C12159091998"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "84F1C7FD-C44B-4AA7-9BB6-95A51CE0D214"
+      "class": "symbolInstance",
+      "id": "048305B0-2620-4DAA-B32C-F0C95585D5E0"
     },
     {
       "class": "group",
       "id": "73B0D110-0E4A-4D61-8B35-34659E365B22"
-    },
-    {
-      "class": "group",
-      "id": "FA5387FC-C69D-4995-9BBC-49F7707CACB8"
-    },
-    {
-      "class": "group",
-      "id": "33A3C268-5722-46D1-82BC-9C9EFE865D0F"
     },
     {
       "class": "group",
@@ -89,10 +65,6 @@
     {
       "class": "group",
       "id": "9B2A1295-0EE7-46D3-8CEA-614268DED199"
-    },
-    {
-      "class": "text",
-      "id": "292C8A29-7A8B-491A-8D51-8746852F9B7C"
     }
   ],
   "name": "Screen/Register/Greeting msg",

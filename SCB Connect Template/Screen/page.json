@@ -35,6 +35,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "0DCF80B2-90A1-4AEE-864C-9DA1BBE14395"
+    },
+    {
       "class": "symbolMaster",
       "id": "3F045E7C-9EC5-4545-BA5F-ED112AEBAECC"
     },
