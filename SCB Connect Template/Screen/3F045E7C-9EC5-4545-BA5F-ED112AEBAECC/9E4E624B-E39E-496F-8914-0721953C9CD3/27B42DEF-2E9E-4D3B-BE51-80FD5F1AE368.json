@@ -1,0 +1,61 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "27B42DEF-2E9E-4D3B-BE51-80FD5F1AE368",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35A9304A-A812-486F-B7F3-E471E5BF098C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E7711E12-34D2-47CB-846F-B15C37D0E07E",
+    "height": 308,
+    "width": 308,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7849ff6859a8dae1e94510481db3cfa72b3da63b.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "LineWelcomebannerMay",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5D76D627-36C7-4660-A635-479EE71B84C5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.961538461538462,
+      "type": 0
+    },
+    "do_objectID": "747576C6-C3A6-4431-B5B2-0A1D36889EC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

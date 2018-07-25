@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "54F8555F-EF22-4E7E-9CE6-121100666A58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2877EB0D-302F-4CC0-9719-468E675863FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24542CDF-BC5C-48D2-8D77-1D702A4D3C75",
+    "height": 64,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6F5DBBB-B5D0-475C-BEF8-06C992D05AC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D833688-70B5-4E5F-A104-F3AFB3F623A0"
+    },
+    {
+      "class": "group",
+      "id": "A4F260F9-AB50-463B-A50B-B5F0B91C82D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E8EDA7E3-B8E2-4435-80EA-CBD21AAEFDA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C982F4CB-45AC-494E-8574-50BE45E42303"
+    },
+    {
+      "class": "group",
+      "id": "C529ED19-B216-4888-B1DC-A526136E2E7D"
+    },
+    {
+      "class": "text",
+      "id": "992EA48F-7936-4A71-BE21-8E0C8A98CCAA"
+    }
+  ],
+  "name": "WebInLine / X",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "978A3049-1FCC-4E29-8A09-B89142993460",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1657608695652174,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

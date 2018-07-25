@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "CBA4F320-F70C-44E8-9100-97FDF4E3ED09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28E9F139-D819-4FE5-B084-FA087F89B5E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "305AEA27-E531-4E10-BD7A-85E36E989AAF",
+    "height": 40,
+    "width": 283,
+    "x": 19,
+    "y": 147
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EB97519C-59B2-47BA-A3BE-87A9753DB8FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C273631F-348A-4FB1-90DF-7F50161F696F"
+    },
+    {
+      "class": "text",
+      "id": "5156DE62-9C1A-4DB6-A346-25A9DD5BF436"
+    },
+    {
+      "class": "text",
+      "id": "F271E2E3-9E76-48B6-AC8B-41254830F2F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAF838A7-389A-4232-80C6-041C9E2F33E4"
+    }
+  ],
+  "name": "Tab ID/Thai",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "965FE61E-32B1-471E-A5F5-D20D4223332F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

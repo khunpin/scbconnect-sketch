@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1C61E8BA-2420-4022-BBF6-CC8004617568",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E754356-8768-4BD1-82E9-F13DD2DF54C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7EE64EDE-F48D-4F70-9C9C-3AA012DA9F5A",
+    "height": 47,
+    "width": 280,
+    "x": 20,
+    "y": 324
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/btn-inactive",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7BC3D63A-84AC-4CC6-8285-2ED7FDA59F91_stringValue",
+      "value": "ถัดไป"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDE44557-B781-4152-B0E7-9F74522F5991",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE342CF0-569B-4692-917E-965DBDFB0737",
+  "verticalSpacing": 0
+}

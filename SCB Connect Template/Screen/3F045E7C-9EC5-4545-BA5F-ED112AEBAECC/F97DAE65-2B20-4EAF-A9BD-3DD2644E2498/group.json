@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F97DAE65-2B20-4EAF-A9BD-3DD2644E2498",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86B434C6-0A22-4109-8665-1AB6C26BFA8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7EE4F1AD-ED9F-4630-8EFF-6FD2DBC91B94",
+    "height": 28,
+    "width": 107,
+    "x": 123,
+    "y": 532
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "498EB783-9B1E-48DD-9723-3D056D8F610B"
+    },
+    {
+      "class": "text",
+      "id": "A43178B9-4080-47B4-AA88-1753F5678DDD"
+    }
+  ],
+  "name": "เมนูหลัก",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2E33AE6-739B-431F-AC50-A9C6AB85A858",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

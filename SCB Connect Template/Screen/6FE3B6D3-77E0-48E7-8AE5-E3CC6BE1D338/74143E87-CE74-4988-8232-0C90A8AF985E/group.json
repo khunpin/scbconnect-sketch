@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "74143E87-CE74-4988-8232-0C90A8AF985E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB9360B1-152F-4D60-B390-50C926227B6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D9CB355-8419-49BA-A750-2A56E5BABDCA",
+    "height": 193,
+    "width": 320,
+    "x": 0,
+    "y": 163
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9F5C9F8A-F1D2-4899-AF52-8BBB2CC22CD9"
+    },
+    {
+      "class": "group",
+      "id": "8E02206F-D78A-4B2A-B8CA-76E36B0A4788"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C7F1292-C184-4C7C-B173-C9DF39BE5123"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2228B178-6F1A-49E7-AD66-BCFAA017F344"
+    },
+    {
+      "class": "text",
+      "id": "DC9C9ABA-5FC9-4205-AF6C-76B1D3FA6884"
+    }
+  ],
+  "name": "Deposit-Section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E89E3024-AAEB-46C8-9623-AF6C97A3DCD2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

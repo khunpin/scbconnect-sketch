@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "4FE89CFF-78B0-40C5-843D-C3C417B34B46",
+    "green": 0.9647058823529412,
+    "red": 0.9647058823529412
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 261,
+  "do_objectID": "8948F9B1-1F23-4743-A441-1C3B47EA71C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B909F4B8-BF9A-4F00-89AA-38EEB8E21495",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C8818DD-0EC0-4BEA-9A9B-79D658D97D0D",
+    "height": 568,
+    "width": 320,
+    "x": -280,
+    "y": 965
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E5B419F-89F8-472E-A4F9-E69CE01588CA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3D5B0FD3-D328-4535-B902-64B47CF00027"
+    },
+    {
+      "class": "text",
+      "id": "8E7B04C7-4F8E-4A23-B2B0-354847450BA2"
+    },
+    {
+      "class": "group",
+      "id": "25AEDA49-A5B6-43B6-B136-1F4FD0403EB3"
+    },
+    {
+      "class": "text",
+      "id": "CAD6927B-D9E8-47E5-AAD2-19493C47AAFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29C160FC-1210-4741-981D-779DA3CFFBF9"
+    }
+  ],
+  "name": "Screen/Step 2.1 : Register-Fill Un secur Phone number",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A75CF3E0-39B6-4573-B6A0-AEA34ECD8A96",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A67949F-8C87-4CA4-9691-F4D2F55D0EFD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "59E58616-ABCE-4897-B98E-85BD9D027EAA",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "979A120D-AAEB-414D-825D-1AEF806FA2D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "057CCA32-86DE-4F6C-9BA3-9634C69977CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "562909B2-85EB-439B-9DE2-EFA96450B403",
+    "height": 111,
+    "width": 320,
+    "x": 0,
+    "y": 373
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "20CC734C-BCDA-4CE3-863C-C757F851C4B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D76B991-A9B3-4E24-9409-5B8EC8244105"
+    },
+    {
+      "class": "text",
+      "id": "81EC184E-A3CA-452A-A3EB-65E3D6F1C913"
+    }
+  ],
+  "name": "Creditcard-section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8077D899-89B6-44A1-BFD7-C00A1FDBE647",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

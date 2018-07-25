@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "383F6EA2-03EA-468B-8C35-F9625DD1B53A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD7F4EAE-B695-4580-A61D-C4657962A221",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3C35E01-857E-466C-B54B-A8100E377632",
+    "height": 29,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product type",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BF63C5A4-77A8-4B1E-B2C0-0E7B1FCB4204_stringValue",
+      "value": "บัญชีสินเชื่อ"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F6FEE7A-9494-4124-A8C7-F040D2D4CEB9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "71250A9D-E55F-496A-8539-42313DE4D13D",
+  "verticalSpacing": 0
+}

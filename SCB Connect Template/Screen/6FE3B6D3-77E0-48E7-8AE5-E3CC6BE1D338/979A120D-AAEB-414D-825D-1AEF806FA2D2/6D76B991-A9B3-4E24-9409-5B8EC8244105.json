@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6D76B991-A9B3-4E24-9409-5B8EC8244105",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08FED27A-A00B-4F65-AE3D-D20B38869705",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B582268-31BA-4785-8A86-60F2064F0CF3",
+    "height": 29,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product type",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BF63C5A4-77A8-4B1E-B2C0-0E7B1FCB4204_stringValue",
+      "value": "บัตรเครดิต/บัตรกดเงินสด"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1034F279-FAE3-4AC5-B0F4-0A3B38FC50C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "71250A9D-E55F-496A-8539-42313DE4D13D",
+  "verticalSpacing": 0
+}

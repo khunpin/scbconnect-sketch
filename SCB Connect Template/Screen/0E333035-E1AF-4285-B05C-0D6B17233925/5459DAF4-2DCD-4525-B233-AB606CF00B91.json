@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5459DAF4-2DCD-4525-B233-AB606CF00B91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "688EEA43-7056-40FA-9B49-187AF1C5316E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2772E0EE-D1FB-490F-99C5-E68899776F86",
+    "height": 47,
+    "width": 280,
+    "x": 18,
+    "y": 501
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Element / Button / BtnInactive",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7BC3D63A-84AC-4CC6-8285-2ED7FDA59F91_stringValue",
+      "value": "ยินยอม"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC7F3A30-CDEC-4A5E-BE72-9CD31BA09271",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE342CF0-569B-4692-917E-965DBDFB0737",
+  "verticalSpacing": 0
+}

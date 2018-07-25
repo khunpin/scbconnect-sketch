@@ -1,0 +1,61 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D06107A4-B82B-4E35-A260-DB7FB3F7F11A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BABD5DDF-2F5C-476B-B341-8964F470B47A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DB0A1AA9-930D-4950-9562-23FF575D223A",
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b16bc73bab86f6233816a328c30be1503df35bc6.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "LogoScbConnectCurcle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C6D22617-18CA-4853-A2F1-64700BF1EC9E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.925925925925926,
+      "type": 0
+    },
+    "do_objectID": "DCCB474B-C56D-4265-ADCD-366202BA1A8B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

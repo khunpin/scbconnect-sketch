@@ -1,0 +1,61 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "48139794-3E9A-486B-985F-98D828F54040",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8FC51DCE-2EF3-4896-A844-E56CADDBC231",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7E310100-20A5-460F-AB73-59B0057090A4",
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b16bc73bab86f6233816a328c30be1503df35bc6.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo_scb_connect_curcle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2063C7A5-5DE4-413D-8B46-884C06FA8C7E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.925925925925926,
+      "type": 0
+    },
+    "do_objectID": "17E5EFA3-FFC8-41BD-9287-7D156B5BB496",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

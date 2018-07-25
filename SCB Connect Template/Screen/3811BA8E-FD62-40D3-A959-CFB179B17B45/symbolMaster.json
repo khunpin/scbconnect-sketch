@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "047AC40A-0BBE-4446-8E68-17B301AD4706",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 571,
+  "do_objectID": "3811BA8E-FD62-40D3-A959-CFB179B17B45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A648CE90-FAC0-4EEB-B805-645039EDF73C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AEA88DFB-5516-4FCF-9DB4-5CEE6ADC2219",
+    "height": 568,
+    "width": 320,
+    "x": 906,
+    "y": 2465
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "576BA7BF-A9FC-45B2-A851-C72D4BCEA9DA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5839E79A-5E95-4B9D-BB80-6D87D40B40FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "936B4699-19FC-471A-AB29-43C72061AA89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ADE28CB-D89E-413E-B8CC-A4532C5A9C83"
+    },
+    {
+      "class": "text",
+      "id": "0A78A8A2-A91C-4447-AF3F-54861AEE1D62"
+    },
+    {
+      "class": "text",
+      "id": "53ABFBC9-807A-42AF-8EAE-C2AE06B5E288"
+    },
+    {
+      "class": "group",
+      "id": "DBF0C587-B322-4206-9687-F0462CEAFA5F"
+    }
+  ],
+  "name": "Screen/Step 2 : error 3 OTP Expired (overtime limit)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0B5BF3D-C663-4C0D-B989-8C0A7D01BFEC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8E9C475-AC40-4B76-9B3C-7B7356B30C2C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2FB2F5EE-BF6A-4044-B039-667430802EA3",
+    "guides": [
+    ]
+  }
+}

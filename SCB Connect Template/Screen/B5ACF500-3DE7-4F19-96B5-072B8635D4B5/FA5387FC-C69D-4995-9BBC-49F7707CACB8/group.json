@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "FA5387FC-C69D-4995-9BBC-49F7707CACB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A84CE708-5D40-4942-A119-4D6D35CED098",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86555AAE-EEEA-441D-8837-A0FEA2EB491F",
+    "height": 30,
+    "width": 143,
+    "x": 86,
+    "y": 23
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2D625CF8-27E2-4C3A-A79D-500FA74E0178"
+    },
+    {
+      "class": "text",
+      "id": "C2AB830D-9AD3-4823-A89F-81C955893C59"
+    },
+    {
+      "class": "bitmap",
+      "id": "F7C7550D-17A4-41CA-8B50-0F7AA0C62B2C"
+    }
+  ],
+  "name": "SCB Connect",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1884973-7474-4D4B-9EE6-9CC016726113",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

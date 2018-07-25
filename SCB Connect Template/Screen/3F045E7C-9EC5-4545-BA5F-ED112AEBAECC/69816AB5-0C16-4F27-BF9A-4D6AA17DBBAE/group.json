@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "69816AB5-0C16-4F27-BF9A-4D6AA17DBBAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD7FED1C-361A-4763-935D-AC22D9DE1EDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17953700-A189-455D-89B5-15FF0B7256C5",
+    "height": 18,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E682CBB-6022-4460-9DF7-CDB9F9B5A766"
+    },
+    {
+      "class": "group",
+      "id": "11C42307-A616-43CE-BE2F-319867636351"
+    },
+    {
+      "class": "text",
+      "id": "02FAC25E-812D-4E99-A263-D1615E87ADF3"
+    },
+    {
+      "class": "group",
+      "id": "E99FCF88-FC18-42FB-9580-151D14C4940E"
+    }
+  ],
+  "name": "StatusBar / White / 100",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA587D7C-6629-4F90-ADE3-81D313612CFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

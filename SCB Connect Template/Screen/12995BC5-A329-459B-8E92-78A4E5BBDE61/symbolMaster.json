@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9661099348642944,
+    "do_objectID": "A6F26602-865F-4EE6-8E9A-517199E11D3D",
+    "green": 0.9661099348642944,
+    "red": 0.9664912840136054
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1655,
+  "do_objectID": "12995BC5-A329-459B-8E92-78A4E5BBDE61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07BC528D-F94D-4FA8-A94F-8C573F07A319",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F1B50E1-1A9E-46D9-959C-CBB4D604E561",
+    "height": 568,
+    "width": 320,
+    "x": 2403,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9ECC706-A1F7-449C-9AA5-BB0873F4CC27",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EE90F936-9332-41CA-9516-B9CE52501EF5"
+    },
+    {
+      "class": "group",
+      "id": "7DF720B8-B5CA-46CC-9A30-1E0A3C220473"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5230EF00-9FC6-44F3-B2BE-6CE78A96DA48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2905F5C-FF75-4FF2-93BB-4AA113434FE0"
+    },
+    {
+      "class": "group",
+      "id": "BB87D23D-DC79-4B8B-977B-95CD9C9C0C8B"
+    },
+    {
+      "class": "group",
+      "id": "32DC0BE3-3234-4922-A0E9-FC232253D6A8"
+    },
+    {
+      "class": "group",
+      "id": "8AD1AA48-DD48-437F-8A52-AA5A77C090C4"
+    }
+  ],
+  "name": "Screen / ScbChatDeposit2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B21D2CC1-4027-47B7-89F2-EF20B268DB2B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6E18596D-F726-43FD-98E9-93E1828D0953",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B76BAD65-7C80-4473-812E-A0C72785AE9D",
+    "guides": [
+    ]
+  }
+}

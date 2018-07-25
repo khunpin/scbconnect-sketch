@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "9F5C9F8A-F1D2-4899-AF52-8BBB2CC22CD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F86A4254-DA4B-48F0-BD08-8FAD1E3BBE0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A76E2DA8-7ABF-41AF-AA5D-E290D7FB0014",
+    "height": 86,
+    "width": 320,
+    "x": 0,
+    "y": 107
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "38FE55CE-470C-43A7-A35D-E90ECE5F4F87"
+    },
+    {
+      "class": "text",
+      "id": "313DBF60-DAB8-4803-9E44-0515E2EEC039"
+    },
+    {
+      "class": "group",
+      "id": "37BE04BC-FC23-48C4-AA44-783767F0B45B"
+    }
+  ],
+  "name": "CASA2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2AA6A3A6-4D00-4EDE-94B1-738612F1D217",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

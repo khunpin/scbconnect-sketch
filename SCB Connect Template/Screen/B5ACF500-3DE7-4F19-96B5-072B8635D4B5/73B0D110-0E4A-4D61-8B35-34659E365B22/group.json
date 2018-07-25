@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "73B0D110-0E4A-4D61-8B35-34659E365B22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2815415-C5D7-4FD6-906D-FA4AD55C9395",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "39EA925F-5DF7-4E5E-B0EF-D3A5CA733AA5",
+    "height": 323,
+    "width": 308,
+    "x": 6,
+    "y": 218
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "18A5A0E8-63C0-432F-8C1F-A66A7AEF3510"
+    },
+    {
+      "class": "bitmap",
+      "id": "D41DA5B7-2AE6-4843-9ECE-FFEFD17EFFBA"
+    },
+    {
+      "class": "text",
+      "id": "98C7D897-DD09-4665-98DF-66653E792DAF"
+    }
+  ],
+  "name": "Rich loan Unregister",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2C224064-2A41-4C67-8C5C-F814480338E0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.970089277581877,
+      "type": 0
+    },
+    "do_objectID": "C35C5651-4B36-4F8E-9868-257CD37DAADC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
